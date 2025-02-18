@@ -2,6 +2,10 @@
 
 This is a simple **Discord bot** built using **C#** and the **Discord.Net** library. You can use it to interact with Discord servers and customize its behavior according to your needs.
 Some of the commands may not work, the bot was built for fun.
+### Panel doesnt work
+**We have made a dashboard for the bot but it currently doesn't work.**
+
+
 
 ### Need your own discord bot or a website?
 **Go to [Syntact](https://syntact.dev)**

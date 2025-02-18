@@ -1,0 +1,41 @@
+is_global = true
+build_property.TargetFramework = net9.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = DiscordBot
+build_property.RootNamespace = DiscordBot
+build_property.ProjectDir = /Users/theogerasimu/Desktop/Discord Bot/NET Discord Bot/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 9.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = /Users/theogerasimu/Desktop/Discord Bot/NET Discord Bot
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 9.0
+build_property.EnableCodeStyleSeverity = 
+
+[/Users/theogerasimu/Desktop/Discord Bot/NET Discord Bot/WebDashboard/Views/Bot/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViRGFzaGJvYXJkL1ZpZXdzL0JvdC9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/theogerasimu/Desktop/Discord Bot/NET Discord Bot/WebPanel/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViUGFuZWwvUGFnZXMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/theogerasimu/Desktop/Discord Bot/NET Discord Bot/WebPanel/Pages/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViUGFuZWwvUGFnZXMvX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/theogerasimu/Desktop/Discord Bot/NET Discord Bot/WebPanel/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViUGFuZWwvUGFnZXMvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/theogerasimu/Desktop/Discord Bot/NET Discord Bot/WebPanel/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViUGFuZWwvUGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

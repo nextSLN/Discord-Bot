@@ -1,0 +1,46 @@
+@page
+@model WebPanel.Pages.IndexModel
+@{
+    ViewData["Title"] = "Discord Bot Control Panel";
+}
+
+<div class="container mt-4">
+    <h1>Discord Bot Control Panel</h1>
+    
+    <div class="row mt-4">
+        <div class="col-md-4">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">Bot Status</h5>
+                    <p class="card-text">
+                        Status: <span id="connectionStatus">Loading...</span><br>
+                        Latency: <span id="botLatency">Loading...</span><br>
+                        Servers: <span id="serverCount">Loading...</span><br>
+                        Users: <span id="userCount">Loading...</span>
+                    </p>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-8">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">Command Controls</h5>
+                    <div id="commandToggles" class="row">
+                        Loading commands...
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row mt-4">
+        <div class="col-12">
+            <button class="btn btn-warning" onclick="restartBot()">Restart Bot</button>
+        </div>
+    </div>
+</div>
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/microsoft-signalr/6.0.1/signalr.min.js"></script>
+<script src="~/js/botcontrol.js"></script>

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "ff4TSddu6BoMhOQVZfapXxf0/8aCL9VZE6weSl8p4ec=",
+  "Source": "DiscordBot",
+  "BasePath": "_content/DiscordBot",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
